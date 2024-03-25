@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/bin/Debug/net7.0/famousPeople
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/bin/Debug/net7.0/famousPeople.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/bin/Debug/net7.0/famousPeople.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/bin/Debug/net7.0/famousPeople.dll
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/bin/Debug/net7.0/famousPeople.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/obj/Debug/net7.0/famousPeople.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/obj/Debug/net7.0/famousPeople.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/obj/Debug/net7.0/famousPeople.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/obj/Debug/net7.0/famousPeople.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/obj/Debug/net7.0/famousPeople.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/obj/Debug/net7.0/famousPeople.dll
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/obj/Debug/net7.0/refint/famousPeople.dll
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/obj/Debug/net7.0/famousPeople.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/obj/Debug/net7.0/famousPeople.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/famousPeople/obj/Debug/net7.0/ref/famousPeople.dll
